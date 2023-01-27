@@ -28,11 +28,7 @@ const siteProps = {
   title: "Web Designer & Content Creator",
   email: "abhatta9@u.rochester.edu",
   gitHub: "https://github.com/anishabhattacharya2001",
-  instagram: "anisha.bhattu",
   linkedIn: "https://www.linkedin.com/in/anisha-bhattacharya/",
-  medium: "",
-  twitter: "",
-  youTube: "",
 };
 
 const primaryColor = "#4E567E";
